@@ -1,0 +1,20 @@
+{
+  "name": "opr-pdf-downloader",
+  "version": "1.0.0",
+  "description": "Downloads all Grimdark Future faction PDFs from One Page Rules Army Forge.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "onepagerules",
+    "opr",
+    "scraper",
+    "pdf"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.12.1"
+  }
+}
